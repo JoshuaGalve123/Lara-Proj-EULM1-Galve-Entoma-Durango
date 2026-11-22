@@ -43,6 +43,10 @@
 
 .form-group {
     margin-bottom: 1rem;
+    input:focus,
+    textarea:focus {
+        outline: none;
+        border-color: #2563eb;
 }
 
 .form-group label {
@@ -97,4 +101,5 @@
     padding: 0.85rem 1rem;
     border-radius: 6px;
     margin-bottom: 1rem;
+}
 }
