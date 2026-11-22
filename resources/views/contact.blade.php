@@ -18,7 +18,7 @@
                 <p><strong>Address:</strong> Timpla Café, Main Street</p>
                 <p><strong>Email:</strong> hello@timplacafe.ph</p>
                 <p><strong>Phone:</strong> +63 (085) 123-4567</p>
-                <p><strong>Hours:</strong> Daily, 7:00 AM – 9:00 PM</p>
+                <p><strong>Hours:</strong> Daily, 6:30 AM – 9:00 PM</p>
             </div>
 
             <div class="contact-card">
